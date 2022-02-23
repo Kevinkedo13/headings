@@ -1,0 +1,69 @@
+.datos{
+	    font-family: cambria;
+}
+
+.encabezado{
+	color: #419FB9;
+	font: cambria;
+	font-size: 150%;
+}
+
+.parrafo1{
+	font: verdana;
+	font-size: font-size: 200%;
+}
+
+.subtitulo de colores{
+	font: arial;
+	font-size: font-size: 130%;
+}
+
+.table{
+	font: arial;
+	font-size: font-size: 100%;
+}
+
+.parrafo2{
+	font: times;
+	font-size: font-size: 100%;
+}
+
+.parrafo3{
+	font: times;
+	font-size: font-size: 100%;
+}
+
+*{
+	
+}
+
+.red{
+	color: red;
+}
+.blue{
+	color: blue;
+}
+.yellow{
+	color: yellow;
+}
+.pink{
+	color: pink;
+}
+.violet{
+	color: violet;
+}
+.green{
+	color: green;
+}
+.cadetblue{
+	color: cadetblue;
+}
+.purple{
+	color: purple;
+}
+.brown{
+	color: brown;
+}
+.coffee{
+	color: cofee;
+}
